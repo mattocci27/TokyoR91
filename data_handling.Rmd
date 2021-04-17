@@ -52,12 +52,20 @@ flair_on <- TRUE
 
 # Thanks to
 
-- **Functional Programming**
-  - https://github.com/dcl-docs/prog
-- **Data Wrangling with R Workshop**
-  - https://github.com/emitanaka/biometrics2019
-- **Tidyverse Workshop**
-  - https://github.com/emitanaka/datawrangle-workshop-ssavic
+- **Functional Programming** by Sara Altman, Bill Behrman and Hadley Wickham
+  - .monash-blue[https://github.com/dcl-docs/prog]
+- **Data Wrangling with R Workshop** by Emi Tanaka
+  - .monash-blue[https://github.com/emitanaka/biometrics2019]
+- **Tidyverse Workshop** by Emi Tanaka
+  - .monash-blue[https://github.com/emitanaka/datawrangle-workshop-ssavic]
+
+These slides are licensed under
+
+.center[
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+<img src="images/by-nc-sa.png" style="width:300px"><br>
+]
+
 
 ---
 
@@ -194,7 +202,7 @@ Wickham, H. et al. 2019. “Welcome to the Tidyverse.” Journal of Open. https:
 ::: { .item border-right: dashed 3pt black; }
 
 
-```{r tibble3, echo=FALSE}
+```{r tibble3, echo=FALSE, fig.height=6}
 
 #display.brewer.all(colorblindFriendly = TRUE)
 my_col0 <- brewer.pal(4, "YlOrRd")
@@ -814,3 +822,4 @@ dat %>%
 .center[
 <img src="images/cheat_sheet.png" style="width:1100px">
 ]
+
