@@ -59,7 +59,7 @@ flair_on <- TRUE
 - **Tidyverse Workshop** by Emi Tanaka
   - .monash-blue[https://github.com/emitanaka/datawrangle-workshop-ssavic]
 
-These slides are licensed under
+These slides are licensed under:
 
 .center[
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
